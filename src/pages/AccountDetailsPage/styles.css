@@ -1,0 +1,35 @@
+.account-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 2rem;
+  background: white;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  max-width: 600px;
+  margin: auto;
+}
+
+.loading {
+  font-size: 1.5rem;
+  color: #6a11cb;
+}
+
+.user-details {
+  width: 100%;
+  margin-bottom: 2rem;
+}
+
+.user-detail {
+  margin-bottom: 1rem;
+}
+
+.label {
+  display: block;
+  margin-bottom: 0.5rem;
+  font-weight: bold;
+  color: #333;
+  text-align: left;
+}
+
